@@ -392,4 +392,4 @@ if __name__ == "__main__":
             print("Thanks for playing!")
             break
         else:
-            print("Invalid choice. Please try again.")
+            print("Invalid choice")
